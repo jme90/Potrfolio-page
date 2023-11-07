@@ -106,7 +106,7 @@ footer .email-link:hover {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -141,8 +141,8 @@ footer .email-link:hover {
   padding: 120px 60px;
 }
 
-.content {
-  padding: 160px 20px;
+.content-container {
+  padding: 60px 20px;
 }
 
 .content h1 {
